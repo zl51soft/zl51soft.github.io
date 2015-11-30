@@ -192,8 +192,8 @@ python gen4idx.py /path/2/gen /path/2/foot.html[模板] excludePath
 
 ## 参考链接
 
-- [我们是如何使用7牛云储存的 | GDG Livin ZhuHai Life;-)](http://blog.zhgdg.org/2013-08/usage7niu/)
-- [PyCon2014China 志愿者协同手册 PyChina.org | 蠎中国社区](http://pychina.org/imho/cooperate-guider.html)
+- [我们是如何使用7牛云储存的 ](http://blog.zhgdg.org/2013-08/usage7niu/)
+- [PyCon2014China 志愿者协同手册 PyChina.org](http://pychina.org/imho/cooperate-guider.html)
 - [cn.pycon.org/2014 官方网站内部维护仓库](https://gitcafe.com/lins05/MkDoc4PyCon/blob/master/README.md)
 
 
