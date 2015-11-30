@@ -212,13 +212,10 @@ Forrest 回答：「You are my girl.」
 
 ----
 
-- 陈素封@开智
+- 陈素封
 - 公众号：cnfeat
 - Blog：cnfeat.com
 
 （题图：七牛云存储）
 
 
-
-
-[PyCon2014China 志愿者协同手册 PyChina.org | 蠎中国社区](http://pychina.org/imho/cooperate-guider.html)
