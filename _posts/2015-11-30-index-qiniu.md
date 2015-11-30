@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 如何为七牛云生成索引目录？
-date: 2015-12-02
+date: 2015-11-30
 categories: blog
 tags: [七牛,图床]
 description: 继续折腾，七牛云。
