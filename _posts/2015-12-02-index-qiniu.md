@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 如何为七牛云生成同步目录？
+title: 如何为七牛云生成索引目录？
 date: 2015-12-02
 categories: blog
 tags: [七牛,图床]
-description: 喜欢折腾，享受科技带来的乐趣。
+description: 继续折腾，七牛云。
 
 ---
 
