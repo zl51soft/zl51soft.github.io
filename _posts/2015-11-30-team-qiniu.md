@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 团队该如何协作使用七牛云空间？
+title: 如何协作使用七牛云空间？
 date: 2015-11-30
 categories: blog
 tags: [七牛,图床]
