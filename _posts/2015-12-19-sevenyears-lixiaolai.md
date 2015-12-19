@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 如果你把时间当作朋友，七年后你会如何？
+title: 把时间当作朋友，七年后你会如何？
 date: 2015-12-19
 categories: blog
 tags: [李笑来,七年]
@@ -78,7 +78,7 @@ description: 任何事情都有方法论，包括烤羊腿。题图：《把时�
 
 如果你热衷于去参与那些只要有电脑或者手机就可以回复，而不需要任何技术经验的主题，你实际上就是在浪费宝贵生命。然后你浪费完今天接着浪费明天，你的人生的一个又一个本来可以充满希望的明天就在这样的毫无意义的灌水中，灰飞烟灭。然后等你老了，内心只是充满了对这个社会的“不公平”的恨，却不记得自己在年轻的时候做过任何有意义的事。
 
---[关于你的宝贵生命 - Livid](https://www.v2ex.com/t/121936?from=timeline&isappinstalled=0)
+--[Livid](https://www.v2ex.com/t/121936?from=timeline&isappinstalled=0)
 
 
 
