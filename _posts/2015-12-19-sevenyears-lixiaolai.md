@@ -67,12 +67,9 @@ description: 任何事情都有方法论，包括烤羊腿。题图：《把时�
 
 ![](http://cnfeat.qiniudn.com/lixiaolai_sing.jpg)
 
-全程录音地址
+全程录音地址：http://pan.baidu.com/s/1bos6mxL
 
-- 百度云：http://pan.baidu.com/s/1boapsoZ 
-- 密码: 35i4
-
- 亮点：李笑来老师自弹自唱七年难得一听，不容错过。
+亮点：李笑来老师才艺展示自弹自唱，七年内难得一听，不容错过。
 
 ----
 
