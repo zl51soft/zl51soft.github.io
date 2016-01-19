@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 我为何将所有微信订阅号都取关了？
-date: 2016-01-17
+date: 2016-01-19
 categories: blog
 tags: [微信,订阅号]
 description: 如果有人问我：你有那些鲜为人知的学习小技巧？我必定回答：用 RSS 阅读器来管理信息入口。
