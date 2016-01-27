@@ -84,18 +84,7 @@ description: 雕爷对于创业、互联网、团队管理、营销的看法，�
 
 ----
 
-如果你对我的想法和文章感兴趣，可以订阅我的公众号「cnfeat」，也可以到cnfeat.com查看往期内容，最后，我已悄悄地进驻了网易云阅读、今日头条、搜狐新闻、知乎专栏和十五言，欢迎探望。
 
-（题图：Don't bullshit me by Ross Nicholson）
-
-![](http://cnfeat.qiniudn.com/mHDSX.png)
-
-点击「阅读原文」达到雕爷长微博打包的[百度网盘](http://pan.baidu.com/s/1o67aJSQ)的地址。
-
-
-回复「微信群」关键字，获得「每天写一千字改变自己」微信群二维码，阅读并认可群规后即可加入。
-
-回复「群规」关键字，获得群规。
 
 ![](http://cnfeat.qiniudn.com/signitrue-2014-07-11.png)
 
