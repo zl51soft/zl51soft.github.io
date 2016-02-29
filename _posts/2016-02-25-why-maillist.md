@@ -9,12 +9,6 @@ description: 愿这份通讯能让你「心目中对世界的的基本假设稍�
 
 
 
-
-
-# 我为什么要开通元认知学习通讯？
-
-
-
 ![](https://mmbiz.qlogo.cn/mmbiz/HRoY0QT1GiabhB9LYyVjuYKmqy7QaNJicNcvXpWRlgvMjRamXHOpFjXGheBgCibEQbGmA7tTWjdxibYBn4ha4MzRzQ/0?wx_fmt=gif)
 
 
