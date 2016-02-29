@@ -9,11 +9,13 @@ description: 愿这份通讯能让你心目中对世界的的基本假设稍微�
 
 
 
-![](https://mmbiz.qlogo.cn/mmbiz/HRoY0QT1GiabhB9LYyVjuYKmqy7QaNJicNcvXpWRlgvMjRamXHOpFjXGheBgCibEQbGmA7tTWjdxibYBn4ha4MzRzQ/0?wx_fmt=gif)
+
 
 
 
 题图：sending by Tamas Kojo
+
+![](https://mmbiz.qlogo.cn/mmbiz/HRoY0QT1GiabhB9LYyVjuYKmqy7QaNJicNcvXpWRlgvMjRamXHOpFjXGheBgCibEQbGmA7tTWjdxibYBn4ha4MzRzQ/0?wx_fmt=gif)
 
 
 七天前，我默默地开通了一个邮件通讯，每天发送一篇邮件，现在已经第七天了。
