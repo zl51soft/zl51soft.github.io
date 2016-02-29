@@ -3,12 +3,10 @@ layout: post
 title: 我为什么要开通元认知学习通讯？
 date: 2016-02-25
 categories: blog
-tags: [元认知,博客]
+tags: [元认知,邮件]
 description: 愿这份通讯能让你心目中对世界的的基本假设稍微移动了一下
+
 ---
-
-
-
 
 
 
